@@ -3,6 +3,11 @@ A bold and visually captivating personal portfolio built using HTML and CSS only
 Inspired by digital surrealism and retro-tech magic, this project serves as an artistic and technical representation of my skills, background, and creative approach to technology.
 
 ## About This Portfolio
+
+## Live Demo
+Check out the live site here:  
+👉 [https://ppaula123.github.io/Paula-Portfolio/](https://ppaula123.github.io/Paula-Portfolio/)
+
 ### This portfolio showcases:
 
 - Programming languages I’m proficient in
